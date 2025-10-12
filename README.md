@@ -1,4 +1,13 @@
+# 💫 Hi 👋, I'm Juhi Sahni
+**A passionate Full-Stack Developer || Enthusiastic Machine Learning Explorer || Lifelong learner**
 
+Email Me 👉 ✉️ **juhisahni07@gmail.com** for collaboration on any project related to development or ML . 😊😊
+
+- 🔭 **I’m currently working on:** full stack web development projects.
+- 🌱 **I’m currently learning:** integration of AI in our projects to make our tasks easy.
+- 👯 **I’m looking to collaborate on:** hackathons
+- 📫 **How to reach me:** juhisahni07@gmail.com
+- ⚡ **Fun fact:** I love exploring new things — once I find what I love, I stick with it wholeheartedly. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juhi-sahni-66185a298) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CodeAndCreate-o5s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juhisahni07@gmail.com) 
 
