@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **juhisahni07@gmail.com** for collaboration on any project 
 
 - 🔭 **I’m currently working on:** full stack web development projects.
 - 🌱 **I’m currently learning:** integration of AI in our projects to make our tasks easy.
-- 👯 **I’m looking to collaborate on:** hackathons
+- 👯 **I’m looking to collaborate on:** hackathons, research papers, and open-source projects focused on AI and web development.
 - 📫 **How to reach me:** juhisahni07@gmail.com
 - ⚡ **Fun fact:** I love exploring new things — once I find what I love, I stick with it wholeheartedly. 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **juhisahni07@gmail.com** for collaboration on any project 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=happylearning07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=happylearning07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=happylearning07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
